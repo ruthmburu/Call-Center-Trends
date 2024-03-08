@@ -1,4 +1,4 @@
-# Telecom Marketing Dashboard
+# Call Center Trends Dashboard
 # Overview
 This Power BI dashboard provides a comprehensive insight into the call center operations and customer satisfaction metrics for our client, a prominent telecom company. It aims to offer transparency and actionable insights based on the data collected at the call center.
 # Key Performance Indicators (KPIs)
